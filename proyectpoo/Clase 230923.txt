@@ -1,0 +1,2 @@
+https://github.com/Fabian0104/poo/tree/main
+https://github.com/Fabian0104/poo/blob/main/proyectpoo/src/com/poo/model/Persona.java
