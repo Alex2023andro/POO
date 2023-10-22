@@ -13,7 +13,7 @@ public class App {
         EstudianteServiceImpl iEstudianteService = new EstudianteServiceImpl();
              
         Estudiante estudiante = new Estudiante(
-            "Ivan", "M", "2000-08-26",
+            "Ivan", "M", "2014-08-26",
             "CEDUK",
             "Ingenieria en sistemas",
             4,
